@@ -1,0 +1,14 @@
+nrows 3 ncols 4
+start 0 0
+dest 0 3
+obstacles
+0 2
+1 1
+ 
+
+
+
+
+
+
+
